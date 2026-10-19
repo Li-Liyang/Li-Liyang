@@ -2,7 +2,7 @@
 
 I am a second-year Ph.D. student in the State Key Lab of CAD&CG, ZJU.
 
-My research interests lie in **World Model** and **Robot Learning**.
+My research interests lie in **Robotics**, **Generative Models** and **Agents**.
 
 <p>
   <img src="assets/project-impact.svg?v=3" alt="Stars and forks across selected public repositories I own or contribute to" width="480" />
